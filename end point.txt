@@ -1,0 +1,8 @@
+user sign up
+user sign in
+user signout
+user profile update
+user delete profile
+user create resume
+user edit resume
+user delete resume
