@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "name": "resume builder by pritam",
+    "builds": [
+       { "src": "server.js", "use": "@vercel/node" }
+    ],
+    "routes": [
+       { "src": "/(.*)", "dest": "/server.js" }
+    ]
+ }
